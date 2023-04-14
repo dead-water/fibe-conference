@@ -155,6 +155,8 @@ conference:
         color: info
       - name: Cat B
         color: success
+      - name: Meal
+        color: warning
 
     # Hide icons on talk overview page
     hide_icons: false
