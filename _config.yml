@@ -89,13 +89,12 @@ conference:
         relative_url: /location/
       - name: About Us
         absolute_url: https://www.fibe-cdt.eng.cam.ac.uk/
-      - name: Previous Editions
+      - name: Previous Conferences
         menu:
           - name: 2023 (current)
             disabled: true
           - name: 2022
-            disabled: true
-            relative_url: /2022/
+            absolute_url: 'https://www.fibe-cdt.eng.cam.ac.uk/news/fibe2-conference'
           - name: 2021
             absolute_url: 'https://www.cdt-civil.eng.cam.ac.uk/news/fibe-conference-2021'
             # disabled: true
@@ -106,8 +105,9 @@ conference:
             disabled: true
             relative_url: /2022/
           - name: 2017
-            disabled: true
-            relative_url: /2022/
+            absolute_url: 'https://www.cdt-civil.eng.cam.ac.uk/news-and-events/news/FIBEConference2017'
+          - name: 2016
+            absolute_url: 'https://www.cdt-civil.eng.cam.ac.uk/news-and-events/events/FIBECDTConference'
 
   # Main landing page
   main:
