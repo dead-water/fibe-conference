@@ -1,7 +1,7 @@
 title: FIBE Conference 2023
 preposition: ''
 description: >-
-  Conference of FIBE CDT on Wednesday November 29th in Cambridge, UK
+  Annual Conference of the FIBE CDT is on Wednesday, November 29th at St. John's College, Cambridge, UK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fibeconference.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -121,7 +121,7 @@ conference:
   # Information boxes
   info_bars:
     - title: Welcome to the Annual FIBE Conference website!
-      color: primary
+      color: warning
       main_only: true
       text: |
         We're in the process of finalising speakers, please bear with us. Once confirmed this website will be updated!
@@ -130,7 +130,7 @@ conference:
 
         We can be reached at cdtcivil-studentreps @ eng.cam.ac.uk
     # - text: This is just some random content for demonstration purposes.
-    #   color: warning
+    #   color: primary
     #   pages_only: true
 
   # Live indications
@@ -150,7 +150,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: [52.20784, 0.11827]
+    home_coord: 52.20784, 0.11827
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
