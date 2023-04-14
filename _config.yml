@@ -92,7 +92,7 @@ conference:
             disabled: true
           - name: 2022
             disabled: true
-            relative_url: /2019/
+            relative_url: /2022/
 
   # Main landing page
   main:
@@ -107,25 +107,25 @@ conference:
         disabled: true
         absolute_url: ''
 
-  # Information boxes
-  info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
-      color: primary
-      main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+  # # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
+  #       ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    date: 29.11.2023
+    timezone: GMT+0
     stop:       240  # in minutes
     streaming:
       enable: true
@@ -139,7 +139,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 47.37808, 8.53935
+    home_coord: 52.20784702229291, 0.11827671685200598
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full

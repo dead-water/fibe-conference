@@ -1,6 +1,6 @@
 ---
-name: The Anonymous
-first_name: The
-last_name: Anonymous
-hide: true
+name: Haritha Jayasinghe
+first_name: Haritha
+last_name: Jayasinghe
+hide: false
 ---

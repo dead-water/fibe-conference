@@ -1,5 +1,4 @@
 ---
-name: Room C
+name: Wordsworth Room
+hide: true
 ---
-
-A different way description on how to find this room

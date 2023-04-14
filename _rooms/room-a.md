@@ -1,5 +1,5 @@
 ---
-name: Room A
+name: Main Lecture Theatre
 ---
 
-A short way description on how to find the room
+The main lecture theatre in the Old Divinity School.
