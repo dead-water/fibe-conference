@@ -5,12 +5,12 @@ window.conference.map = (() => {
     let map;
 
     const setup = (elId) => {
-        map = L.map(elId).setView([52.20784, 0.11827], 17);
+        map = L.map(elId).setView([52.20784, 0.11827], 18);
 
         L.tileLayer.provider(config.map_provider).addTo(map);
 
         L.easyButton('far fa-star', () => {
-            map.flyTo([52.20784, 0.11827], 17);
+            map.flyTo([52.20784, 0.11827], 18);
         }, lang.focus_conf).addTo(map);
 
         L.control.locate({
