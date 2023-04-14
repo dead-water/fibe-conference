@@ -12,7 +12,7 @@ days:
         time_start: '13:00'
         time_end: '15:00'
       - name: TBD2
-        time_start: '13:00'
+        time_start: '15:00'
         time_end: '19:00'
 
   - name: Lightfoot Room

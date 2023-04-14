@@ -5,7 +5,7 @@ window.conference.map = (() => {
     let map;
 
     const setup = (elId) => {
-        map = L.map(elId).setView(52.20784, 0.11827, config.default_zoom);
+        map = L.map(elId).setView(52.20784, 0.11827, zoom = config.default_zoom);
 
         L.tileLayer.provider(config.map_provider).addTo(map);
 
