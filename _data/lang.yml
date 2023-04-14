@@ -38,7 +38,7 @@ en:
     focus_me: Show my current location
   program:
     title: Program
-    legend: Caption
+    legend: Legend
   speaker:
     overview: Speakers
     title: Speaker
