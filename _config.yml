@@ -93,6 +93,17 @@ conference:
           - name: 2022
             disabled: true
             relative_url: /2022/
+          - name: 2021
+            url: https://www.cdt-civil.eng.cam.ac.uk/news/fibe-conference-2021
+          - name: 2019
+            disabled: true
+            relative_url: /2022/
+          - name: 2018
+            disabled: true
+            relative_url: /2022/
+          - name: 2017
+            disabled: true
+            relative_url: /2022/
 
   # Main landing page
   main:
@@ -139,7 +150,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 52.20784, 0.11827
+    home_coord: [52.20784, 0.11827]
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
