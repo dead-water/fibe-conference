@@ -74,7 +74,8 @@ conference:
  # Navigation bar
   navigation:
     logo:
-      name: FIBE Conference 2023
+      name: FIBE Annual Conference 2023
+      img: fibe2_logo_conference.png
       # img: ''
       url: 'https://fibeconference.com'
     links:
@@ -94,7 +95,8 @@ conference:
             disabled: true
             relative_url: /2022/
           - name: 2021
-            url: https://www.cdt-civil.eng.cam.ac.uk/news/fibe-conference-2021
+            absolute_url: 'https://www.cdt-civil.eng.cam.ac.uk/news/fibe-conference-2021'
+            # disabled: true
           - name: 2019
             disabled: true
             relative_url: /2022/
@@ -107,8 +109,6 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
     links:
       - name: Program
         relative_url: /program/
