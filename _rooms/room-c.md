@@ -1,4 +1,4 @@
 ---
 name: Wordsworth Room
-hide: true
+hide: false
 ---
