@@ -87,6 +87,8 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: About Us
+        absolute_url: https://www.fibe-cdt.eng.cam.ac.uk/
       - name: Previous Editions
         menu:
           - name: 2023 (current)
