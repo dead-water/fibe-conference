@@ -1,10 +1,10 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: TBD
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - James Walsh
 categories:
-  - Cat A
+  - Cat B
   - Talk
-hide: true
 ---
+
+TBD.
