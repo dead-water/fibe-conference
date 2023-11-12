@@ -1,16 +1,10 @@
 ---
-name: TBD3
+name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
 speakers:
-  - James Walsh
+  - Callum White
 categories:
-  - Cat B
+  - Student Talk
   - Talk
-links:
-  - name: Recodring
-    icon: video
-    absolute_url: https://google.com/
-  - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
 ---
 
 TBD.

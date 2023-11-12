@@ -1,16 +1,10 @@
 ---
-name: TBD4
+name: "How do we ensure long-term resilience in bridge infrastructure?: Learnings and Recommendations"
 speakers:
-  - James Walsh
+  - Priyanka Beta
 categories:
-  - Cat B
+  - Student Talk
   - Talk
-links:
-  - name: Recodring
-    icon: video
-    absolute_url: https://google.com/
-  - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
 ---
 
 TBD.

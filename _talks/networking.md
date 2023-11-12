@@ -1,7 +1,7 @@
 ---
 name: Refreshments + Networking
-# categories:
-#   - Meal
+categories:
+  - Meal
 ---
 
 TBD.

@@ -1,7 +1,7 @@
 ---
-name: "Novel tape spring geometries"
+name: TBD12
 speakers:
-  - Jamie Clarkson
+  - 
 categories:
   - Student Talk
   - Talk

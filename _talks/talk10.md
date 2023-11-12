@@ -1,7 +1,7 @@
 ---
-name: "Novel tape spring geometries"
+name: "TBD10"
 speakers:
-  - Jamie Clarkson
+  - Douglas Morley
 categories:
   - Student Talk
   - Talk
