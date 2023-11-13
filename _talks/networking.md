@@ -1,7 +1,7 @@
 ---
-name: Refreshments + Networking
+name: Refreshments & Networking
 categories:
   - Meal
 ---
 
-TBD.
+Drinks provided.
