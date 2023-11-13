@@ -1,9 +1,9 @@
 ---
 name: TBD2
 speakers:
-  - James Walsh
+  - Han Ding
 categories:
-  - Cat B
+  - Student Talk
   - Talk
 ---
 

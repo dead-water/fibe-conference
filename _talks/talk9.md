@@ -1,7 +1,7 @@
 ---
-name: "Novel tape spring geometries"
+name: TBD9
 speakers:
-  - Jamie Clarkson
+  - James Walsh
 categories:
   - Student Talk
   - Talk

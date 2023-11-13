@@ -1,5 +1,5 @@
 ---
-name: Buffet Lunch + Poster Session
+name: Lunch
 categories:
   - Meal
 ---

@@ -1,7 +1,7 @@
 ---
-name: "Novel tape spring geometries"
+name: TBD7
 speakers:
-  - Jamie Clarkson
+  - Alice Bennett
 categories:
   - Student Talk
   - Talk

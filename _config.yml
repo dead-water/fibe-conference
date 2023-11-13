@@ -164,12 +164,14 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Keynote
         color: info
-      - name: Cat B
+      - name: Student Talk
         color: success
       - name: Meal
         color: warning
+      - name: Other
+        color: dark
 
     # Hide icons on talk overview page
     hide_icons: false
