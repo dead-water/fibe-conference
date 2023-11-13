@@ -19,7 +19,7 @@ days:
         time_end: '13:15'
       - name: "Lunch"
         time_start: '13:15'
-        time_end: '14:30'
+        time_end: '14:45'
       - name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
         time_start: '14:45'
         time_end: '15:15'
