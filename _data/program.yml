@@ -17,7 +17,7 @@ days:
       - name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
         time_start: '12:50'
         time_end: '13:15'
-      - name: Lunch
+      - name: "Lunch"
         time_start: '13:15'
         time_end: '14:30'
       - name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
@@ -32,13 +32,16 @@ days:
       - name: "Correcting like instances alike: advancements in automating image annotations"
         time_start: '16:05'
         time_end: '16:30'
-      - name: Refreshments
+      - name: "Refreshments"
         time_start: '16:30'
         time_end: '16:45'
       - name: "Keynote 3: Modelling systemic infrastructure resilience"
         time_start: '16:45'
         time_end: '17:30'
-      - name: Wrap up & Networking
+      - name: "Wrap up"
+        time_start: '17:30'
+        time_end: '17:45'
+      - name: "Refreshments & Networking"
         time_start: '17:45'
         time_end: '18:45'
 
