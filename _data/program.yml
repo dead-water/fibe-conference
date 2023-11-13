@@ -32,12 +32,15 @@ days:
       - name: "Correcting like instances alike: advancements in automating image annotations"
         time_start: '16:05'
         time_end: '16:30'
-      - name: Refreshments + Networking
+      - name: Refreshments
         time_start: '16:30'
         time_end: '16:45'
       - name: "Keynote 3: Modelling systemic infrastructure resilience"
         time_start: '16:45'
         time_end: '17:30'
+      - name: Wrap up & Networking
+        time_start: '17:45'
+        time_end: '18:45'
 
 
   - name: Lightfoot Room
@@ -67,5 +70,5 @@ days:
   - name: Wordsworth Room
     talks:
       - name: Formal Dinner
-        time_start: '19:00'
-        time_end: '21:00'
+        time_start: '18:45'
+        time_end: '20:45'
