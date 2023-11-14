@@ -6,5 +6,3 @@ categories:
   - Keynote
   - Talk
 ---
-
-TBD.

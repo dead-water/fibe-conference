@@ -6,5 +6,3 @@ categories:
   - Student Talk
   - Talk
 ---
-
-TBD.
