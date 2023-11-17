@@ -126,11 +126,17 @@ conference:
       color: warning
       main_only: true
       text: |
-        We're in the process of finalising speakers, please bear with us. Once confirmed this website will be updated!
+        Submissions are currently open for student posters to be presented in the poster session, 
+        with students and academics as the main audience. A complimentary lunch and refreshments 
+        will be provided. The day will provide networking opportunities with industry leaders, 
+        academics and students, and presentations by our learned keynote speakers. 
+        
+        Tickets for the conference can be obtained from 
+        [eventbrite.](https://fibe2conference2023.eventbrite.com/)
 
         ---
 
-        We can be reached at cdtcivil-studentreps @ eng.cam.ac.uk
+        For additional details please reach out to us at cdtcivil-studentreps @ eng.cam.ac.uk
     # - text: This is just some random content for demonstration purposes.
     #   color: primary
     #   pages_only: true
