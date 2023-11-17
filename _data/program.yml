@@ -42,7 +42,7 @@ days:
 
   - name: Lightfoot Room
     talks:
-      - name: "TBD7"
+      - name: "Can hydrogen production align with Net Zero? A systematic analysis of onshore and offshore production pathways"
         time_start: '12:00'
         time_end: '12:25'
       - name: "Forecasting for Control of Smart Energy Storage System - IEA Annex 37 Sub-task A"
