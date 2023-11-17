@@ -117,8 +117,8 @@ conference:
       - name: How to get there
         relative_url: /location/
       - name: Tickets
-        disabled: true
-        absolute_url: ''
+        disabled: false
+        absolute_url: 'https://www.eventbrite.com/e/fibe2-annual-conference-2023-tickets-719664635297'
 
   # Information boxes
   info_bars:

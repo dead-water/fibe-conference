@@ -1,6 +1,7 @@
 ---
-name: Refreshments + Networking
+name: Refreshments & Networking
 categories:
   - Meal
 ---
 
+Drinks provided.

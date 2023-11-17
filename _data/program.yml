@@ -17,9 +17,9 @@ days:
       - name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
         time_start: '12:50'
         time_end: '13:15'
-      - name: Lunch
+      - name: "Lunch"
         time_start: '13:15'
-        time_end: '14:30'
+        time_end: '14:45'
       - name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
         time_start: '14:45'
         time_end: '15:15'
@@ -32,12 +32,18 @@ days:
       - name: "Correcting like instances alike: advancements in automating image annotations"
         time_start: '16:05'
         time_end: '16:30'
-      - name: Refreshments + Networking
+      - name: "Refreshments"
         time_start: '16:30'
         time_end: '16:45'
       - name: "Keynote 3: Modelling systemic infrastructure resilience"
         time_start: '16:45'
         time_end: '17:30'
+      - name: "Wrap up"
+        time_start: '17:30'
+        time_end: '17:45'
+      - name: "Refreshments & Networking"
+        time_start: '17:45'
+        time_end: '18:45'
 
 
   - name: Lightfoot Room
@@ -67,5 +73,5 @@ days:
   - name: Wordsworth Room
     talks:
       - name: Formal Dinner
-        time_start: '19:00'
-        time_end: '21:00'
+        time_start: '18:45'
+        time_end: '20:45'
