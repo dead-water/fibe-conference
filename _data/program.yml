@@ -11,7 +11,7 @@ days:
       - name: "Novel tape spring geometries"
         time_start: '12:00'
         time_end: '12:25'
-      - name: "TBD2"
+      - name: "Role of hyperspectral remote sensing (HRS) of ground contamination in sustainable land regeneration"
         time_start: '12:25'
         time_end: '12:50'
       - name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
@@ -60,7 +60,7 @@ days:
       - name: "Poster Session"
         time_start: '13:15'
         time_end: '14:30'
-      - name: "TBD10"
+      - name: "Designing smarter integral bridges using geotechnical centrifuge data"
         time_start: '15:15'
         time_end: '15:40'
       - name: "Ground-source energy systems and thermo-active geostructures for direct use of shallow geothermal energy"
