@@ -54,7 +54,7 @@ days:
       - name: "Forecasting for Control of Smart Energy Storage System - IEA Annex 37 Sub-task A"
         time_start: '12:25'
         time_end: '12:50'
-      - name: "TBD9"
+      - name: "Spanning Chemical Plants"
         time_start: '12:50'
         time_end: '13:15'
       - name: "Poster Session"
