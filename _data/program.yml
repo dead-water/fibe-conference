@@ -8,7 +8,7 @@ days:
       - name: "Keynote: Delivering Climate Resilient Cities and Infrastructure: A Review of Practice"
         time_start: '11:00'
         time_end: '12:00'
-      - name: "Novel tape spring geometries"
+      - name: "How do we ensure long-term resilience in bridge infrastructure?: Learnings and Recommendations"
         time_start: '12:00'
         time_end: '12:25'
       - name: "Role of hyperspectral remote sensing (HRS) of ground contamination in sustainable land regeneration"
@@ -23,7 +23,7 @@ days:
       - name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
         time_start: '14:45'
         time_end: '15:15'
-      - name: "How do we ensure long-term resilience in bridge infrastructure?: Learnings and Recommendations"
+      - name: "Novel tape spring geometries"
         time_start: '15:15'
         time_end: '15:40'
       - name: "Learnable Geometry and Connectivity Modelling of BIM Objects"
@@ -66,7 +66,7 @@ days:
       - name: "Ground-source energy systems and thermo-active geostructures for direct use of shallow geothermal energy"
         time_start: '15:40'
         time_end: '16:05'
-      - name: "TBD12"
+      - name: "Case study on Production system design for Underground metro construction in an old urban area"
         time_start: '16:05'
         time_end: '16:30'
 
