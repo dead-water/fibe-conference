@@ -1,5 +1,5 @@
 ---
-name: TBD9
+name: Spanning Chemical Plants
 speakers:
   - James Walsh
 categories:
