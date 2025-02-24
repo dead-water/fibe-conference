@@ -1,6 +1,6 @@
 ---
 name: Sarah Sharples
-first_name: Sarah
+first_name: Professor Sarah
 last_name: Sharples
 links:
   - name: Profile
