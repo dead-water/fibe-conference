@@ -1,6 +1,6 @@
 ---
 name: Bill Baker
-first_name: Bill
+first_name: Professor Bill
 last_name: Baker
 links:
   - name: Profile
