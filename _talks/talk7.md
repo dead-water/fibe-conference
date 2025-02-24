@@ -1,5 +1,5 @@
 ---
-name: "Student Presentation: James Whiteley"
+name: "Strength and Efficiency: Innovations in Concrete and Steel Design Methods - James Whiteley"
 speakers:
   -  James Whiteley
 categories:
