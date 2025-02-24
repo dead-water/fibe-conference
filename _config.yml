@@ -1,7 +1,7 @@
-title: FIBE Conference 2023
+title: FIBE Conference 2025
 preposition: ''
 description: >-
-  Annual Conference of the FIBE CDT is on Wednesday, November 29th at St. John's College, Cambridge, UK.
+  The FIBE2 CDT's Annual Conference will be held on Tuesday March 18th at St. John’s College, Cambridge, UK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fibeconference.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -33,6 +33,13 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
+  past_speakers:
+    output: true
+    permalink: /past-speakers/:title/
+  past_talks:
+    output: true
+    permalink: /past-talks/:title/
+
 
 defaults:
   - scope:
@@ -50,6 +57,16 @@ defaults:
       type: rooms
     values:
       layout: room
+  - scope:
+      path: ""
+      type: past_speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: past_talks
+    values:
+      layout: talk
 
 # Theme default values
 conference:
@@ -74,7 +91,7 @@ conference:
  # Navigation bar
   navigation:
     logo:
-      name: FIBE Annual Conference 2023
+      name: FIBE Annual Conference 2025
       img: fibe2_logo_conference.png
       # img: ''
       url: 'https://fibeconference.com'
@@ -91,8 +108,10 @@ conference:
         absolute_url: https://www.fibe-cdt.eng.cam.ac.uk/
       - name: Past Years
         menu:
-          - name: 2023 (current)
+          - name: 2025 (current)
             disabled: true
+          - name: 2023
+            relative_url: /past-years/2023/
           - name: 2022
             absolute_url: 'https://www.fibe-cdt.eng.cam.ac.uk/news/fibe2-conference'
           - name: 2021
@@ -118,7 +137,7 @@ conference:
         relative_url: /location/
       - name: Tickets
         disabled: false
-        absolute_url: 'https://www.eventbrite.com/e/fibe2-annual-conference-2023-tickets-719664635297'
+        absolute_url: 'https://www.eventbrite.com/e/fibe2-annual-conference-2025-tickets-1112714973439?aff=oddtdtcreator'
 
   # Information boxes
   info_bars:
@@ -126,13 +145,11 @@ conference:
       color: warning
       main_only: true
       text: |
-        Submissions are currently open for student posters to be presented in the poster session, 
-        with students and academics as the main audience. A complimentary lunch and refreshments 
-        will be provided. The day will provide networking opportunities with industry leaders, 
-        academics and students, and presentations by our learned keynote speakers. 
+        We look forward to welcoming you to the 2025 FIBE2 Annual Conference! The day will provide networking opportunities with industry leaders, 
+        academics and students, and presentations by our learned keynote speakers. A complimentary lunch and refreshments will be provided. 
         
         Tickets for the conference can be obtained from 
-        [eventbrite.](https://fibe2conference2023.eventbrite.com/)
+        [eventbrite.](https://www.eventbrite.com/e/fibe2-annual-conference-2025-tickets-1112714973439?aff=oddtdtcreator)
 
         ---
 
@@ -143,7 +160,7 @@ conference:
 
   # Live indications
   live:
-    date: 29.11.2023
+    date: 18.03.2025
     timezone: GMT+0
     stop:       240  # in minutes
     streaming:

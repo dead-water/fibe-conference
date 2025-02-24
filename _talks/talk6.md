@@ -1,8 +1,9 @@
 ---
-name: "Correcting like instances alike: advancements in automating image annotations"
+name: "Student Presentation: Fergus Mok"
 speakers:
-  - Percy (Pui Hei) Lam
+  -  Fergus Mok
 categories:
   - Student Talk
   - Talk
 ---
+

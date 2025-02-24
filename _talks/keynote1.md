@@ -1,7 +1,7 @@
 ---
-name: "Keynote: Delivering Climate Resilient Cities and Infrastructure: A Review of Practice"
+name: "Keynote: Sarah Sharples"
 speakers:
-  - Pasquale Capizzi
+  - Sarah Sharples
 categories:
   - Keynote
   - Talk

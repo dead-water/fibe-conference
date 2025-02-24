@@ -1,8 +1,9 @@
 ---
-name: "Designing smarter integral bridges using geotechnical centrifuge data"
+name: "Student Presentation: Shagun Garg"
 speakers:
-  - Douglas Morley
+  -  Shagun Garg
 categories:
   - Student Talk
   - Talk
 ---
+

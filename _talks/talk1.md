@@ -1,7 +1,7 @@
 ---
-name: "Novel tape spring geometries"
+name: "Student Presentation: India Harding"
 speakers:
-  - Jamie Clarkson
+  - India Harding
 categories:
   - Student Talk
   - Talk

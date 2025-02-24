@@ -1,7 +1,7 @@
 ---
-name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
+name: "Keynote: Bill Baker"
 speakers:
-  - Xilin Xia
+  - Bill Baker
 categories:
   - Keynote
   - Talk

@@ -1,7 +1,7 @@
 ---
-name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
+name: "Student Presentation: Maxine Beh"
 speakers:
-  - Callum White
+  - Maxine Beh
 categories:
   - Student Talk
   - Talk

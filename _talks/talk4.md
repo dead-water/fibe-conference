@@ -1,7 +1,7 @@
 ---
-name: "How do we ensure long-term resilience in bridge infrastructure?: Learnings and Recommendations"
+name: "Student Presentation: Joseph Stephenson"
 speakers:
-  - Priyanka Beta
+  -  Joseph Stephenson
 categories:
   - Student Talk
   - Talk

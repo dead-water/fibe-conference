@@ -1,0 +1,28 @@
+{% include partials/header.html %}
+
+{% if page.title -%}
+  <h1 class="display-5 mb-3">{{ page.title }}</h1>
+{%- endif %}
+
+{{ content }}
+
+<div class="container text-center">
+
+    <div class="lead d-print-none mt-4">
+        <a href="{{ page.button1_url | prepend: site.baseurl }}" 
+           class="btn btn-outline-primary btn-lg mt-2 ml-1 blocky-button">
+            {{ page.button1_text }}
+        </a>
+
+        <a href="{{ page.button2_url | prepend: site.baseurl }}" 
+           class="btn btn-outline-primary btn-lg mt-2 ml-1 blocky-button">
+            {{ page.button2_text }}
+        </a>
+    </div>
+</div>
+
+{% if page.map %}
+  <div id="map" class="mt-4 mb-3"></div>
+{% endif %}
+
+{% include partials/footer.html %}

@@ -1,7 +1,7 @@
 ---
-name: "Forecasting for Control of Smart Energy Storage System - IEA Annex 37 Sub-task A"
+name: "Student Presentation: Daniel Dalton"
 speakers:
-  - Max Langtry
+  -  Daniel Dalton
 categories:
   - Student Talk
   - Talk

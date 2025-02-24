@@ -1,7 +1,7 @@
 ---
-name: "Can hydrogen production align with Net Zero? A systematic analysis of onshore and offshore production pathways"
+name: "Student Presentation: James Whiteley"
 speakers:
-  - Alice Bennett
+  -  James Whiteley
 categories:
   - Student Talk
   - Talk

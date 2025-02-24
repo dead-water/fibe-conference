@@ -1,77 +1,77 @@
 days:
-- name: Wednesday
-  abbr: Weds
-  date: 2023-11-29
+- name: Tuesday
+  abbr: Tue
+  date: 2025-03-18
   rooms:
   - name: Main Lecture Theatre
     talks:
-      - name: "Keynote: Delivering Climate Resilient Cities and Infrastructure: A Review of Practice"
+      - name: Arrival and Registration
+        time_start: '09:45'
+        time_end: '10:15'
+      - name: Introduction and Opening Remarks
+        time_start: '10:15'
+        time_end: '10:30'
+      - name: "Keynote: Sarah Sharples"
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: "Student Presentation: India Harding"
         time_start: '11:00'
+        time_end: '11:30'
+      - name: "Student Presentation: Zoe Zhuang"
+        time_start: '11:30'
         time_end: '12:00'
-      - name: "How do we ensure long-term resilience in bridge infrastructure?: Learnings and Recommendations"
+      - name: "Student Presentation: Maxine Beh"
         time_start: '12:00'
-        time_end: '12:25'
-      - name: "Role of hyperspectral remote sensing (HRS) of ground contamination in sustainable land regeneration"
-        time_start: '12:25'
-        time_end: '12:50'
-      - name: "100 years of the concrete slump test: Uncovering rheological insights via 3D reconstruction"
-        time_start: '12:50'
-        time_end: '13:15'
-      - name: "Lunch"
-        time_start: '13:15'
-        time_end: '14:45'
-      - name: "Keynote: Advancing modelling and risk assessment for resilience to extreme weather impacts"
-        time_start: '14:45'
-        time_end: '15:15'
-      - name: "Novel tape spring geometries"
-        time_start: '15:15'
-        time_end: '15:40'
-      - name: "Learnable Geometry and Connectivity Modelling of BIM Objects"
-        time_start: '15:40'
-        time_end: '16:05'
-      - name: "Correcting like instances alike: advancements in automating image annotations"
-        time_start: '16:05'
-        time_end: '16:30'
-      - name: "Refreshments"
-        time_start: '16:30'
-        time_end: '16:45'
-      - name: "Keynote 3: Modelling systemic infrastructure resilience"
-        time_start: '16:45'
+        time_end: '12:30'
+      - name: Group Photo
+        time_start: '12:30'
+        time_end: '13:00'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '13:30'
+      - name: "Keynote: Bill Baker"
+        time_start: '13:30'
+        time_end: '14:15'
+      - name: Elevator Pitches
+        time_start: '14:15'
+        time_end: '14:30'
+      - name: "Student Presentation: Priyanka Beta"
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: "Student Presentation: Shagun Garg"
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: Networking Coffee Break
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Panel Discussion
+        time_start: '16:00'
+        time_end: '17:00'
+      - name: Closing Remarks
+        time_start: '17:00'
         time_end: '17:30'
-      - name: "Wrap up"
-        time_start: '17:30'
-        time_end: '17:45'
-      - name: "Refreshments & Networking"
-        time_start: '17:45'
-        time_end: '18:45'
 
 
   - name: Lightfoot Room
     talks:
-      - name: "Can hydrogen production align with Net Zero? A systematic analysis of onshore and offshore production pathways"
+      - name: "Student Presentation: Joseph Stephenson"
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: "Student Presentation: Peihang (Hank) Luo"
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: "Student Presentation: Fergus Mok"
         time_start: '12:00'
-        time_end: '12:25'
-      - name: "Forecasting for Control of Smart Energy Storage System - IEA Annex 37 Sub-task A"
-        time_start: '12:25'
-        time_end: '12:50'
-      - name: "Spanning Chemical Plants"
-        time_start: '12:50'
-        time_end: '13:15'
-      - name: "Poster Session"
-        time_start: '13:15'
-        time_end: '14:30'
-      - name: "Designing smarter integral bridges using geotechnical centrifuge data"
-        time_start: '15:15'
-        time_end: '15:40'
-      - name: "Ground-source energy systems and thermo-active geostructures for direct use of shallow geothermal energy"
-        time_start: '15:40'
-        time_end: '16:05'
-      - name: "Case study on Production system design for Underground metro construction in an old urban area"
-        time_start: '16:05'
-        time_end: '16:30'
+        time_end: '12:30'
+      - name: "Student Presentation: James Whiteley"
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: "Student Presentation: Daniel Dalton"
+        time_start: '15:00'
+        time_end: '15:30'
 
   - name: Wordsworth Room
     talks:
       - name: Formal Dinner
-        time_start: '18:45'
-        time_end: '20:45'
+        time_start: '18:00'
+        time_end: '20:00'

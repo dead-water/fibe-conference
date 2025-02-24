@@ -1,7 +1,7 @@
 ---
-name: Spanning Chemical Plants
+name: "Student Presentation: Priyanka Beta"
 speakers:
-  - James Walsh
+  -  Priyanka Beta
 categories:
   - Student Talk
   - Talk

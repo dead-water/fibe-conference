@@ -1,7 +1,7 @@
 ---
-name: "Learnable Geometry and Connectivity Modelling of BIM Objects"
+name: "Student Presentation: Peihang (Hank) Luo"
 speakers:
-  - Haritha Jayasinghe
+  -  Peihang (Hank) Luo
 categories:
   - Student Talk
   - Talk

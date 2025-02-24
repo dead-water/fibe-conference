@@ -1,7 +1,7 @@
 ---
-name: "Role of hyperspectral remote sensing (HRS) of ground contamination in sustainable land regeneration"
+name: "Student Presentation: Zoe Zhuang"
 speakers:
-  - Han Ding
+  - Zoe Zhuang
 categories:
   - Student Talk
   - Talk

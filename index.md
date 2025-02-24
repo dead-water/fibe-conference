@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Information to come.
+Links to get started.
