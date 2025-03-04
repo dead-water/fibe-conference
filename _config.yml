@@ -189,12 +189,21 @@ conference:
     main_categories:
       - name: Keynote
         color: info
-      - name: Student Talk
+      - name: Plenary Session
         color: success
       - name: Meal
         color: warning
       - name: Other
         color: dark
+      - name: Sustainable Foundations -- Low-Carbon, Nature-Based, and Energy-Driven Solutions
+        color: custom1
+      - name: Smart Roads and Resilient Pavements -- Building the Future of Infrastructure
+        color: custom2
+      - name: Strength and Efficiency -- Innovations in Concrete and Steel Design Methods
+        color: custom3
+      - name:  Intelligent Infrastructure -- Autonomous Maintenance, Sensing, and Remote Monitoring
+        color: custom4
+      
 
     # Hide icons on talk overview page
     hide_icons: false

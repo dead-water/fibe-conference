@@ -3,7 +3,7 @@ name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solu
 speakers:
   - India Harding
 categories:
-  - Student Talk
   - Talk
+  - Sustainable Foundations -- Low-Carbon, Nature-Based, and Energy-Driven Solutions
 ---
 

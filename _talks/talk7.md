@@ -3,7 +3,7 @@ name: "Strength and Efficiency: Innovations in Concrete and Steel Design Methods
 speakers:
   -  James Whiteley
 categories:
-  - Student Talk
+  - Strength and Efficiency -- Innovations in Concrete and Steel Design Methods
   - Talk
 ---
 
