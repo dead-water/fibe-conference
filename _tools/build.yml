@@ -24,7 +24,7 @@ jobs:
           lfs: true
 
       - name: Setup Ruby, Bundler and Jekyll
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1.170.0
         with:
           ruby-version: '3.2.1'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
