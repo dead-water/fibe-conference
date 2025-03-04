@@ -19,7 +19,7 @@ jobs:
     steps:
 
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           lfs: true
 
@@ -43,7 +43,7 @@ jobs:
           minify --all --html-keep-document-tags --html-keep-end-tags -r -o _site/ _site/
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
           node-version: '12'
 
@@ -68,7 +68,7 @@ jobs:
 
       - name: Create Release
         id: create_release
-        uses: actions/create-release@v1
+        uses: actions/create-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -78,7 +78,7 @@ jobs:
           prerelease: false
 
       - name: Upload zipped Website as Release Asset
-        uses: actions/upload-release-asset@v1
+        uses: actions/upload-release-asset@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
