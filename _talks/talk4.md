@@ -3,7 +3,7 @@ name: "Smart Roads and Resilient Pavements: Building the Future of Infrastructur
 speakers:
   -  Joseph Stephenson
 categories:
-  - Student Talk
+  - Smart Roads and Resilient Pavements -- Building the Future of Infrastructure
   - Talk
 ---
 

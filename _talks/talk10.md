@@ -3,7 +3,7 @@ name: "Intelligent Infrastructure: Autonomous Maintenance, Sensing, and Remote M
 speakers:
   -  Shagun Garg
 categories:
-  - Student Talk
+  - Intelligent Infrastructure -- Autonomous Maintenance, Sensing, and Remote Monitoring
   - Talk
 ---
 

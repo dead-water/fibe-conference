@@ -3,7 +3,7 @@ name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solu
 speakers:
   - Maxine Beh
 categories:
-  - Student Talk
+  - Sustainable Foundations -- Low-Carbon, Nature-Based, and Energy-Driven Solutions
   - Talk
 ---
 

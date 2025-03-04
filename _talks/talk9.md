@@ -3,7 +3,7 @@ name: "Intelligent Infrastructure: Autonomous Maintenance, Sensing, and Remote M
 speakers:
   -  Priyanka Beta
 categories:
-  - Student Talk
+  - Intelligent Infrastructure -- Autonomous Maintenance, Sensing, and Remote Monitoring
   - Talk
 ---
 
