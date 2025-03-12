@@ -189,6 +189,8 @@ conference:
     main_categories:
       - name: Keynote
         color: info
+      - name: Student Talk
+        color: success
       - name: Plenary Session
         color: success
       - name: Meal

@@ -1,5 +1,5 @@
 ---
-name: "Strength and Efficiency: Innovations in Concrete and Steel Design Methods - Daniel Dalton"
+name: "Optimising Trusses: Balancing Efficiency with Practical Considerations"
 speakers:
   -  Daniel Dalton
 categories:

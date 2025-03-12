@@ -74,10 +74,10 @@ $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
-$custom1:          $blue !default;
-$custom2:          $red !default;
-$custom3:          $orange !default;
-$custom4:          $purple !default;
+$custom1:       $purple !default;
+$custom2:       $red !default;
+$custom3:       $orange !default;
+$custom4:       $pink !default;
 
 $theme-colors: () !default;
 $theme-colors: map-merge(
