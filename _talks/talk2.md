@@ -1,5 +1,5 @@
 ---
-name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solutions - Zoe Zhuang"
+name: "Optimising the Configuration of In-Channel Leaky Dams Through Numerical Modelling"
 speakers:
   - Zoe Zhuang
 categories:

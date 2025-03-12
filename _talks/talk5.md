@@ -1,5 +1,5 @@
 ---
-name: "Smart Roads and Resilient Pavements: Building the Future of Infrastructure - Peihang (Hank) Luo"
+name: "ChatTwin: Enabling Natural Language Interactions with Infrastructure Digital Twins"
 speakers:
   -  Peihang (Hank) Luo
 categories:

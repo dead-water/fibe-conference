@@ -1,7 +1,11 @@
 ---
 name: Panel Discussion
 speakers:
-  - FIBE2 Conference Organisers
+  - Renjie Mi
+  - Wei Bi
+  - Rohit Prajapati
+  - Barnali Ghosh
+  - Chetan Kotur
 categories:
   - Plenary Session
   - Talk

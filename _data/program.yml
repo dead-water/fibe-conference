@@ -14,13 +14,13 @@ days:
       - name: "Keynote: Sarah Sharples"
         time_start: '10:30'
         time_end: '11:00'
-      - name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solutions - India Harding"
+      - name: "The viability of Waste Clays as Low-Carbon Binders in Sustainable Earthen Construction"
         time_start: '11:00'
         time_end: '11:30'
-      - name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solutions - Zoe Zhuang"
+      - name: "Optimising the Configuration of In-Channel Leaky Dams Through Numerical Modelling"
         time_start: '11:30'
         time_end: '12:00'
-      - name: "Sustainable Foundations: Low-Carbon, Nature-Based, and Energy-Driven Solutions - Maxine Beh"
+      - name: "Numerical Optimisation of Ground Improvement Thermal Parameters for Long Term Energy Pile Performance"
         time_start: '12:00'
         time_end: '12:30'
       - name: Group Photo
@@ -29,10 +29,10 @@ days:
       - name: Lunch
         time_start: '13:00'
         time_end: '13:30'
-      - name: "Intelligent Infrastructure: Autonomous Maintenance, Sensing, and Remote Monitoring - Priyanka Beta"
+      - name: "Understanding the Influencing Parameters for Chloride Transport and Their Relationship with Electrical Resistivity in Different Low-Carbon Mortar Systems"
         time_start: '13:30'
         time_end: '14:00'
-      - name: "Intelligent Infrastructure: Autonomous Maintenance, Sensing, and Remote Monitoring - Shagun Garg"
+      - name: "Monitoring the Effectiveness of Nature-Based Solutions Using Remote Sensing"
         time_start: '14:00'
         time_end: '14:30'
       - name: "Keynote: Bill Baker"
@@ -51,19 +51,19 @@ days:
 
   - name: Lightfoot Room
     talks:
-      - name: "Smart Roads and Resilient Pavements: Building the Future of Infrastructure - Joseph Stephenson"
+      - name: "ChatTwin: Enabling Natural Language Interactions with Infrastructure Digital Twins"
         time_start: '11:00'
         time_end: '11:30'
-      - name: "Smart Roads and Resilient Pavements: Building the Future of Infrastructure - Peihang (Hank) Luo"
+      - name: "Melting Roads? Investigating the Impact of Climate Change on Pavements"
         time_start: '11:30'
         time_end: '12:00'
-      - name: "Smart Roads and Resilient Pavements: Building the Future of Infrastructure - Fergus Mok"
+      - name: "Overcoming Data Constraints - Adopting LLMs to Digitalize Road Inspections for Efficient Maintenance and Resilient Infrastructure"
         time_start: '12:00'
         time_end: '12:30'
-      - name: "Strength and Efficiency: Innovations in Concrete and Steel Design Methods - James Whiteley"
+      - name: "Reliability-Constrained Bayesian Optimization For Structural Design Under Uncertainty"
         time_start: '13:30'
         time_end: '14:00'
-      - name: "Strength and Efficiency: Innovations in Concrete and Steel Design Methods - Daniel Dalton"
+      - name: "Optimising Trusses: Balancing Efficiency with Practical Considerations"
         time_start: '14:00'
         time_end: '14:30'
 
