@@ -1,7 +1,7 @@
-title: FIBE Conference 2025
+title: FIBE Conference 2026
 preposition: ''
 description: >-
-  The FIBE2 CDT's Annual Conference will be held on Tuesday March 18th at St. John’s College, Cambridge, UK.
+  The FIBE2 CDT's Annual Conference will be held on Wednesday March 4th  at St. John’s College, Cambridge, UK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fibeconference.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -108,15 +108,16 @@ conference:
         absolute_url: https://www.fibe-cdt.eng.cam.ac.uk/
       - name: Past Years
         menu:
-          - name: 2025 (current)
+          - name: 2026 (current)
             disabled: true
+          - name: 2025
+            relative_url: /past-years/2025/
           - name: 2023
             relative_url: /past-years/2023/
           - name: 2022
             absolute_url: 'https://www.fibe-cdt.eng.cam.ac.uk/news/fibe2-conference'
           - name: 2021
             absolute_url: 'https://www.cdt-civil.eng.cam.ac.uk/news/fibe-conference-2021'
-            # disabled: true
           - name: 2019
             disabled: true
             relative_url: /2022/
@@ -145,7 +146,7 @@ conference:
       color: warning
       main_only: true
       text: |
-        We look forward to welcoming you to the 2025 FIBE2 Annual Conference! The day will provide networking opportunities with industry leaders, 
+        We look forward to welcoming you to the 2026 FIBE2 annual Conference! The day will provide networking opportunities with industry leaders, 
         academics and students, and presentations by our learned keynote speakers. A complimentary lunch and refreshments will be provided. 
         
         Tickets for the conference can be obtained from 
