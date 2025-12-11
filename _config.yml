@@ -138,7 +138,7 @@ conference:
         relative_url: /location/
       - name: Tickets
         disabled: false
-        absolute_url: 'https://www.eventbrite.com/e/fibe2-annual-conference-2025-tickets-1112714973439?aff=oddtdtcreator'
+        absolute_url: 'https://FIBE2-Conference-RISE2026.eventbrite.com'
 
   # Information boxes
   info_bars:
@@ -150,7 +150,7 @@ conference:
         academics and students, and presentations by our learned keynote speakers. A complimentary lunch and refreshments will be provided. 
         
         Tickets for the conference can be obtained from 
-        [eventbrite.](https://www.eventbrite.com/e/fibe2-annual-conference-2025-tickets-1112714973439?aff=oddtdtcreator)
+        [eventbrite.](https://FIBE2-Conference-RISE2026.eventbrite.com)
 
         ---
 
