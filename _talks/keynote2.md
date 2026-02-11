@@ -1,7 +1,7 @@
 ---
-name: "Keynote: Bill Baker"
+name: "Keynote: TBC 2"
 speakers:
-  - Bill Baker
+  - 
 categories:
   - Keynote
   - Talk
