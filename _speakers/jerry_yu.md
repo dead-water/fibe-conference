@@ -1,5 +1,5 @@
 ---
-name: Jerry Yu
+name: Jerry Cheuk Him Yu
 first_name: Jerry Cheuk Him
 last_name: Yu
 links:

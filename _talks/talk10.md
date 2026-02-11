@@ -1,9 +1,10 @@
 ---
-name: "Monitoring the Effectiveness of Nature-Based Solutions Using Remote Sensing"
+name: "Carbon sequestration using construction materials"
 speakers:
-  -  Shagun Garg
+  -  Aswathy Rajendran
 categories:
-  - Intelligent Infrastructure -- Autonomous Maintenance, Sensing, and Remote Monitoring
   - Talk
+  - Low-Carbon Construction Materials and Design
+  
 ---
 

@@ -1,76 +1,79 @@
 
  days:
- - name: Tuesday
-   abbr: Tue
-   date: 2025-03-18
+ - name: Wednesday
+   abbr: Wed
+   date: 2025-03-04
    rooms:
    - name: Main Lecture Theatre
-#     talks:
-#       - name: Arrival and Registration
-#         time_start: '09:45'
-#         time_end: '10:15'
-#       - name: Introduction and Opening Remarks
-#         time_start: '10:15'
-#         time_end: '10:30'
-#       - name: "Keynote: Sarah Sharples"
-#         time_start: '10:30'
-#         time_end: '11:00'
-#       - name: "The viability of Waste Clays as Low-Carbon Binders in Sustainable Earthen Construction"
-#         time_start: '11:00'
-#         time_end: '11:30'
-#       - name: "Optimising the Configuration of In-Channel Leaky Dams Through Numerical Modelling"
-#         time_start: '11:30'
-#         time_end: '12:00'
-#       - name: "Numerical Optimisation of Ground Improvement Thermal Parameters for Long Term Energy Pile Performance"
-#         time_start: '12:00'
-#         time_end: '12:30'
-#       - name: Group Photo
-#         time_start: '12:30'
-#         time_end: '13:00'
-#       - name: Lunch
-#         time_start: '13:00'
-#         time_end: '13:30'
-#       - name: "Understanding the Influencing Parameters for Chloride Transport and Their Relationship with Electrical Resistivity in Different Low-Carbon Mortar Systems"
-#         time_start: '13:30'
-#         time_end: '14:00'
-#       - name: "Monitoring the Effectiveness of Nature-Based Solutions Using Remote Sensing"
-#         time_start: '14:00'
-#         time_end: '14:30'
-#       - name: "Keynote: Bill Baker"
-#         time_start: '14:30'
-#         time_end: '15:15'
-#       - name: Networking Coffee Break
-#         time_start: '15:15'
-#         time_end: '15:45'
-#       - name: Panel Discussion
-#         time_start: '15:45'
-#         time_end: '16:45'
-#       - name: Closing Remarks
-#         time_start: '16:45'
-#         time_end: '17:30'
+     talks:
+       - name: Arrival and Registration
+         time_start: '09:45'
+         time_end: '10:30'
+       - name: Introduction and Opening Remarks
+         time_start: '10:30'
+         time_end: '10:45'
+       - name: "Keynote: TBC"
+         time_start: '10:45'
+         time_end: '11:45'
+       - name: "Grid Energy Storage and the UK Energy Transition"    
+         time_start: '11:45'
+         time_end: '12:05'
+       - name: "Operational Energy and Infrastructure Risk in NHS Hospitals"
+         time_start: '12:05'
+         time_end: '12:25'
+       - name: "A Novel Low Temperature Triaxial Cell"
+         time_start: '12:25'
+         time_end: '12:45'
+       - name: Group Photo
+         time_start: '12:45'
+         time_end: '13:00'
+       - name: Lunch
+         time_start: '13:00'
+         time_end: '13:45'
+       - name: "Enhancing MICP soil improvement through biochar encapsulation in microbially precipitated calcite"
+         time_start: '13:50'
+         time_end: '14:10'
+       - name: "Optimising Trusses: Balancing Efficiency with Practical Considerations"
+         time_start: '14:10'
+         time_end: '14:30'
+       - name: "Investigating chloride-induced-corrosion durability sensor for low-carbon concrete"
+         time_start: '14:30'
+         time_end: '14:50'
+       - name: "Carbon sequestration using construction materials"
+         time_start: '14:50'
+         time_end: '15:10'
+       - name: 'Keynote: TBC'
+         time_start: '15:10'
+         time_end: '16:00'
+       - name: Coffee Break
+         time_start: '16:00'
+         time_end: '16:30'
+       - name: Panel Discussion
+         time_start: '16:30'
+         time_end: '17:15'
+       - name: Closing Remarks
+         time_start: '17:15'
+         time_end: '17:45'
+       - name: Drinks Reception
+         time_start: '17:45'
+         time_end: '18:30'
 
 
    - name: Lightfoot Room
-#     talks:
-#       - name: "ChatTwin: Enabling Natural Language Interactions with Infrastructure Digital Twins"
-#         time_start: '11:00'
-#         time_end: '11:30'
-#       - name: "Melting Roads? Investigating the Impact of Climate Change on Pavements"
-#         time_start: '11:30'
-#         time_end: '12:00'
-#       - name: "Overcoming Data Constraints - Adopting LLMs to Digitalize Road Inspections for Efficient Maintenance and Resilient Infrastructure"
-#         time_start: '12:00'
-#         time_end: '12:30'
-#       - name: "Reliability-Constrained Bayesian Optimization For Structural Design Under Uncertainty"
-#         time_start: '13:30'
-#         time_end: '14:00'
-#       - name: "Optimising Trusses: Balancing Efficiency with Practical Considerations"
-#         time_start: '14:00'
-#         time_end: '14:30'
+     talks:
+       - name: "Integration of digital twins and multi-agent systems for intra- and inter-organizational decision making"
+         time_start: '11:45'
+         time_end: '12:05'
+       - name: "Reflective twins for deep excavation using physics-informed machine learning"
+         time_start: '12:05'
+         time_end: '12:25'
+       - name: "TBC"
+         time_start: '12:25'
+         time_end: '12:45'
 
    - name: Wordsworth Room
-#     talks:
-#       - name: Formal Dinner
-#         time_start: '18:00'
-#         time_end: '20:00'
+     talks:
+       - name: Formal Dinner
+         time_start: '18:30'
+         time_end: '20:00'
   
