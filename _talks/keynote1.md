@@ -1,7 +1,7 @@
 ---
-name: "Keynote: TBC 1"
+name: " Keynote: TBC 1"
 speakers:
-  - TBC
+  - Sun Yan Evans
 categories:
   - Keynote
   - Talk

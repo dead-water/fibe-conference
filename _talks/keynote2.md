@@ -1,8 +1,9 @@
 ---
-name: "Keynote: TBC 2"
+name: "Keynote: Data-driven Holistic Asset Management"
 speakers:
-  - TBC
+  - Dr Mehran Eskandari Torbaghan
 categories:
   - Keynote
   - Talk
+  
 ---
