@@ -1,5 +1,5 @@
 ---
-name: " Keynote: TBC 1"
+name: "RISE by Design: Infrastructure People Can Trust"
 speakers:
   - Sun Yan Evans
 categories:
