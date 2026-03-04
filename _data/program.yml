@@ -30,7 +30,7 @@
        - name: Lunch
          time_start: '13:00'
          time_end: '13:45'
-       - name: "Enhancing MICP soil improvement through biochar encapsulation in microbially precipitated calcite"
+       - name: "Complex Adaptive Systems for Construction Risk Management"
          time_start: '13:50'
          time_end: '14:10'
        - name: "Optimising Trusses: Balancing Efficiency with Practical Considerations"
@@ -67,7 +67,7 @@
        - name: "Reflective twins for deep excavation using physics-informed machine learning"
          time_start: '12:05'
          time_end: '12:25'
-       - name: "TBC"
+       - name: "Enhancing MICP soil improvement through biochar encapsulation in microbially precipitated calcite"
          time_start: '12:25'
          time_end: '12:45'
 
