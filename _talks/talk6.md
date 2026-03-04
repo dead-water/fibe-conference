@@ -1,5 +1,5 @@
 ---
-name: "TBC"
+name: "Complex Adaptive Systems for Construction Risk Management"
 speakers:
   -  Felicia Anderson
 categories:
